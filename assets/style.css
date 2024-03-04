@@ -1,6 +1,8 @@
 body {
   margin: 0;
   padding: 0; 
+  background-image: url("../assets/background.jpg");
+  background-color: hsl(0, 0%, 100%);
 }
 
   .dropdown {
